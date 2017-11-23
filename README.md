@@ -1,20 +1,11 @@
-# my first repository
+# CWL入门指南（中文版）
 
-## 来一个二级标题
+该指南将向您介绍如何使用CWL封装工具和流程。该指南描述针对稳定版v1.0。
 
-### 再来一个三级标题
+注意：该文档工作正在继续，并不覆盖所有方面。
 
-markdown语法
+## 准备工作
 
-插入个图片
-[什么是Github](https://pic4.zhimg.com/7c9d3403bf922b1663f56975869c829b_b.png)
+一个文本编辑器。
 
-来个表
-
-|时间|计划|
-|:-:|:-:|
-|早上|竞品分析|
-|下午|学车|
-
-一个新的分支
-编辑一下看看
+一个CWL执行器。推荐开始时使用[参考实例](https://github.com/common-workflow-language/cwltool#install)。CWL执行器列表见[CWL项目主页](http://www.commonwl.org/#Implementations)。
